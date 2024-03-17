@@ -1,1 +1,1 @@
-# DevDive
+DevDive website implemented with Bootstrap
